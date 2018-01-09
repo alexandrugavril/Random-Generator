@@ -1,0 +1,1 @@
+gcc -mrdrnd generator.c && ./a.out $1

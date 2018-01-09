@@ -1,0 +1,37 @@
+________________________________________________________________________________
+
+		FILE = ./randomNumbers.txt		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 128 0s = 48 1s = 80
+		BITSREAD = 128 0s = 63 1s = 65
+		BITSREAD = 128 0s = 70 1s = 58
+		BITSREAD = 128 0s = 73 1s = 55
+		BITSREAD = 128 0s = 55 1s = 73
+		BITSREAD = 128 0s = 67 1s = 61
+		BITSREAD = 128 0s = 60 1s = 68
+		BITSREAD = 128 0s = 68 1s = 60
+		BITSREAD = 128 0s = 71 1s = 57
+		BITSREAD = 128 0s = 52 1s = 76
+		BITSREAD = 128 0s = 77 1s = 51
+		BITSREAD = 128 0s = 61 1s = 67
+		BITSREAD = 128 0s = 63 1s = 65
+		BITSREAD = 128 0s = 68 1s = 60
+		BITSREAD = 128 0s = 67 1s = 61
+		BITSREAD = 128 0s = 72 1s = 56
+		BITSREAD = 128 0s = 67 1s = 61
+		BITSREAD = 128 0s = 58 1s = 70
+		BITSREAD = 128 0s = 55 1s = 73
+		BITSREAD = 128 0s = 67 1s = 61
+		BITSREAD = 128 0s = 70 1s = 58
+		BITSREAD = 128 0s = 60 1s = 68
+		BITSREAD = 128 0s = 70 1s = 58
+		BITSREAD = 128 0s = 64 1s = 64
+		BITSREAD = 128 0s = 59 1s = 69
+		BITSREAD = 128 0s = 53 1s = 75
+		BITSREAD = 128 0s = 64 1s = 64
+		BITSREAD = 128 0s = 65 1s = 63
+		BITSREAD = 128 0s = 67 1s = 61
+		BITSREAD = 128 0s = 70 1s = 58
+		BITSREAD = 128 0s = 64 1s = 64
+		BITSREAD = 128 0s = 54 1s = 74
